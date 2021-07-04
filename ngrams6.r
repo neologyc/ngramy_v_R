@@ -1,4 +1,6 @@
 library(quanteda)
+#https://quanteda.io/articles/quickstart.html
+#https://tutorials.quanteda.io/basic-operations/tokens/kwic/
 require(readtext)
 
 # načtení souboru
